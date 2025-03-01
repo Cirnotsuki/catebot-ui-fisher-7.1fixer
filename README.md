@@ -4,4 +4,5 @@
 当钓鱼插件从原来的数据库没法获取到对应的鱼时，从临时数据库中重新获取。
 
 # 使用方法
-把所有文件放进 ACT 目录之下的 ~\Plugins\cactbot-offline\ui\fisher 之中即可 
+把所有文件放进 ACT 目录之下的 ~\Plugins\cactbot-offline\ui\fisher 之中即可。
+ff14国服限定
